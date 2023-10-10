@@ -1,0 +1,16 @@
+{
+  "name": "quranbot",
+  "version": "1.0.0",
+  "description": "a simple telegram bot written in nodejs that sends the full Ayah based on user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sorrowfulfloyd",
+  "license": "ISC",
+  "dependencies": {
+    "quran-db": "^1.2.3",
+    "telegraf": "^4.14.0"
+  }
+}
